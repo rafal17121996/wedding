@@ -1,0 +1,39 @@
+.Home{
+min-height: 100vh;
+background-color: darkslategray;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+input{
+    padding: 10px;
+    margin: 10px;
+    display: block;
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: #80808063;
+    width: 500px;
+    text-align: center;
+    &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: black;
+        opacity: 1; /* Firefox */
+      }
+
+}
+&__file::-webkit-file-upload-button {
+    visibility: hidden;
+}
+&__file{
+    text-align: center;
+
+}
+button{
+    padding:10px 20px 10px 20px ;
+    background-color: cadetblue;
+    border: none;
+    cursor: pointer;
+    &:hover{
+        background-color: rgb(66, 98, 99);
+    }
+}
+}

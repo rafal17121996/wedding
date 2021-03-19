@@ -1,0 +1,16 @@
+{
+  "UniqueName": "x",
+  "ConfirmationDueDate": "2021-03-18T14:17",
+  "ChurchWeddingInfo": {
+    "StartDate": "2021-03-18T14:17",
+    "Location": { "Latitude": "21.1", "Longitude": "20.2" },
+    "PlaceName": "X",
+    "PlaceAddress": "x"
+  },
+  "PartyWeddingInfo": {
+    "StartDate": "2021-03-18T14:17",
+    "Location": { "Latitude": "21.1", "Longitude": "20.2" },
+    "PlaceName": "x",
+    "PlaceAddress": "x"
+  }
+}
